@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Praktikum-6</string>
+    <string name="error">Please fill out all field</string>
+    <string name="add">Contact has been added</string>
+    <string name="edit">Contact has been edited</string>
+    <string name="delete">Confirm to delete this contact</string>
+</resources>
